@@ -1,2 +1,3 @@
 # pet-reptil-public-asset
-public assets of app PetReptil
+public assets of app PetReptil.
+
