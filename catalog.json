@@ -1,0 +1,22 @@
+{
+  "amazon": {
+    "substrate": [
+      {
+        "id": "substrate-001",
+        "title": "Pó de coco para Répteis",
+        "description": "Substrato Natural 100% pó de coco ideal para criar um ambiente adequado para répteis. Material organico seguro e atóxico, não agride o anial e ajuda no controle da umidade do terrario",
+        "category": "substrate",
+        "qtd": "5 litros",
+        "tags": [
+          "iguanas",
+          "tartarugas",
+          "jabutis",
+          "lagartos",
+          "serpentes"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B04jjNsJU"
+      }
+    ]
+  }
+}
