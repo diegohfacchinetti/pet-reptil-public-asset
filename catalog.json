@@ -16,6 +16,693 @@
         ],
         "icon": "substrate",
         "link": "https://link.amazon/B04jjNsJU"
+      },
+      {
+        "id": "substrate-002",
+        "title": "Substrato P/Terrários Jabutis e Cágados Répteis",
+        "description": "Substrato adequado: Substrato especialmente desenvolvido para terrários de jabutis e cágados répteis, cobras, lagartos. Seguro para répteis: Formulação segura e apropriada.",
+        "category": "substrate",
+        "qtd": "5 litros",
+        "tags": [
+          "tartarugas",
+          "jabutis",
+          "cagados"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B09QQnNB1"
+      },
+      {
+        "id": "substrate-003",
+        "title": "Chips de Coco Para Répteis Terrestres CPC Pet Care",
+        "description": "Chips de Coco para Terrários de Répteis Terrestres – CPC Pet Care 🦎 Ventilação, drenagem e conforto natural para o seu réptil! 100% vegetal.",
+        "category": "substrate",
+        "qtd": "5 litros",
+        "tags": [
+          "jabutis",
+          "iguanas",
+          "lagartos",
+          "serpentes",
+          "dragões barbudos"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B0fOF3PyF"
+      },
+      {
+        "id": "substrate-004",
+        "title": "MAQIHAN Vermiculita para répteis - Roupa de cama de substrato",
+        "description": "Retenção de água super forte. Permeabilidade superior ao ar. Isolamento: a vermiculita pode amortecer as flutuações externas de temperatura.",
+        "category": "substrate",
+        "qtd": "440 ml",
+        "tags": [
+          "jabutis",
+          "incubadora",
+          "leopard gecko",
+          "serpentes",
+          "dragões barbudos"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B0gMEbsZ0"
+      },
+      {
+        "id": "substrate-005",
+        "title": "Casca de Pinus Lavada Para Terrario de Répteis terrestres",
+        "description": "Casca de Pinus Lavada para Terrário de Répteis Terrestres – CPC Pet Care 🦎 Substrato natural, seguro e ideal para répteis de solo!",
+        "category": "substrate",
+        "qtd": "5 litros",
+        "tags": [
+          "jabutis",
+          "iguanas",
+          "lagartos",
+          "serpentes",
+          "dragões barbudos"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B0gZMlGB0"
+      },
+      {
+        "id": "substrate-006",
+        "title": "Roupa de cama de cobra Aspen Shavings - Substrato de réptil",
+        "description": "Aparas de Aspen de alta qualidade: usa madeira de Aspen natural pura, sem qualquer coloração e adição, cheiro natural, material macio, saudável para animais de estimação.",
+        "category": "substrate",
+        "qtd": "440 g",
+        "tags": [
+          "jabutis",
+          "lagartos",
+          "serpentes",
+          "dragões barbudos"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B00cqsWIR"
+      },
+      {
+        "id": "substrate-007",
+        "title": "Zilla Roupa de cama de deserto",
+        "description": "Substrato para terrários de répteis, ideal para dragões barbudos, Uromastyx e mais.",
+        "category": "substrate",
+        "qtd": "2,1 kg",
+        "tags": [
+          "uromastyx",
+          "lagartos",
+          "lagartixas do deserto",
+          "dragões barbudos"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B03ywrKtU"
+      },
+      {
+        "id": "substrate-008",
+        "title": "Snake Bedding Substrato de musgo natural",
+        "description": "Você receberá um pedaço de cama de cobra. Ele vem em uma forma conveniente de tijolo comprimido, que se expande quando a água é adicionada, oferecendo um ótimo custo-benefício.",
+        "category": "substrate",
+        "qtd": "227 g",
+        "tags": [
+          "corn snake",
+          "serpentes",
+          "lagartixas"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B0dPtGMh5"
+      },
+      {
+        "id": "substrate-009",
+        "title": "Folhas de carvalho para sapos e répteis",
+        "description": "Areia de folhas de terrário, capa de substrato, roupa de cama de viveiro, suporte de umidade, decoração de gabinete, alimentos isópodes e rabo de mola.",
+        "category": "substrate",
+        "qtd": "142 g",
+        "tags": [
+          "sapos",
+          "serpentes",
+          "repteis",
+          "lagartixas"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B02XrF2nq"
+      },
+      {
+        "id": "substrate-010",
+        "title": "Casca de cortiça para répteis",
+        "description": "4 peças de rasteiras de cortiça natural para terrário, peças de madeira de cortiça.",
+        "category": "substrate",
+        "qtd": "231 g",
+        "tags": [
+          "aranhas",
+          "serpentes",
+          "dragões barbudos",
+          "lagartixas"
+        ],
+        "icon": "substrate",
+        "link": "https://link.amazon/B05E87aDH"
+      }
+    ],
+    "lighting": [
+      {
+        "id": "lighting-001",
+        "title": "Lâmpada Cerâmica Infravermelha para Répteis",
+        "description": "Aquecimento Infravermelho para Terrários,Ideal para Répteis, Anfíbios e Aves,Não Emite Luz, Perfeita para Aquecimento 24h",
+        "category": "lighting",
+        "qtd": "100 W",
+        "tags": [
+          "repteis",
+          "anfibios",
+          "aves"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B01vg0Ttn"
+      },
+      {
+        "id": "lighting-002",
+        "title": "NomoyPet Mini Lâmpada de Cerâmica Preta ND-13",
+        "description": "Lâmpada cerâmica de 60W para sistemas 127V. Não emite luz que possa perturbar os animais.",
+        "category": "lighting",
+        "qtd": "60 W",
+        "tags": [
+          "repteis",
+          "anfibios"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0go4KIWu"
+      },
+      {
+        "id": "lighting-003",
+        "title": "FINYQBET Lâmpada de Calor para Répteis, 3 Lâmpadas,UVA+UVB",
+        "description": "Projetada especificamente para répteis: equipada com duas lâmpadas de 25 W e 50 W com soquetes E27, que simulam os raios UVA/UVB e a luz solar. A luz ultravioleta estimula o apetite dos répteis e favorece a absorção de cálcio.",
+        "category": "lighting",
+        "qtd": "25 W e 50 W",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B05itWMge"
+      },
+      {
+        "id": "lighting-004",
+        "title": "Lâmpada UVA UVB 13W 110V para Répteis",
+        "description": "ILUMINAÇÃO UVA/UVB: Lâmpada especial que fornece radiação UVA e UVB essencial para a saúde e desenvolvimento de répteis em cativeiro.",
+        "category": "lighting",
+        "qtd": "13W",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0csHg3Sh"
+      },
+      {
+        "id": "lighting-005",
+        "title": "REPTITRIP Luminária Dupla Para Répteis Com Interruptores Independentes",
+        "description": "Luminária De Calor E UVB Para Terrário De Dragão Barbudo, Máximo De 160 W Cada (Lâmpada Não Incluída)",
+        "category": "lighting",
+        "qtd": "Máximo de 160 W Cada",
+        "tags": [
+          "repteis",
+          "dragão barbudo"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B07hSAoif"
+      },
+      {
+        "id": "lighting-006",
+        "title": "Lâmpada de Secagem 220v Infravermelho para Aquecimento",
+        "description": "AQUECIMENTO POTENTE E EFICIENTE: Com 250W de potência, proporciona calor intenso para secagem rápida sem danificar superfícies sensíveis.",
+        "category": "lighting",
+        "qtd": "250 W",
+        "tags": [
+          "repteis",
+          "terrario",
+          "aves"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0fZusUdW"
+      },
+      {
+        "id": "lighting-007",
+        "title": "Lâmpada de Secagem 110v Infravermelho para Aquecimento",
+        "description": "AQUECIMENTO POTENTE E EFICIENTE: Com 250W de potência, proporciona calor intenso para secagem rápida sem danificar superfícies sensíveis.",
+        "category": "lighting",
+        "qtd": "250 W",
+        "tags": [
+          "repteis",
+          "terrario",
+          "aves"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0e9MFP0C"
+      },
+      {
+        "id": "lighting-008",
+        "title": "Lampada Para Repteis 5.0 Mini Com Uvb- Zoomed",
+        "description": "Lampada de 13 watts, voltagem 100 volts, utilização terrario",
+        "category": "lighting",
+        "qtd": "13 W",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0bK6xPH2"
+      },
+      {
+        "id": "lighting-009",
+        "title": "Terrário réptil LED UVA UVB com controle de aplicativo para habitats desérticos e tropicais",
+        "description": "Luz LED de réptil de espectro completo projetada para terrários, viveiros, tanques de tartarugas, habitats de lagartixas e compartimentos de répteis.",
+        "category": "lighting",
+        "qtd": "9 W",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0gwqw0zq"
+      },
+      {
+        "id": "lighting-010",
+        "title": "Luminária de réptil, cúpula padrão de 14 cm para lâmpada de frade de réptil",
+        "description": "A cúpula de luz com soquete de cerâmica resistente ao calor pode acomodar lâmpada de calor de répteis ou lâmpada de aquecimento de répteis e emissor de calor de cerâmica (máximo. 150 W).",
+        "category": "lighting",
+        "qtd": "Máximo de 150 W",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "lighting",
+        "link": "https://link.amazon/B0gDKopc1"
+      }
+    ],
+    "heating": [
+      {
+        "id": "heating-001",
+        "title": "Almofada de aquecimento para répteis com ajuste de temperatura",
+        "description": "Tapete de calor 110V 7W para répteis, cobras, lagarto, lagartixa, caranguejo eremita tartaruga, almofada de aquecimento sob o tanque (7W(11 polegadas)",
+        "category": "heating",
+        "qtd": "7 W",
+        "tags": [
+          "repteis",
+          "terrario",
+          "cobra",
+          "lagarto",
+          "lagartixa",
+          "caranguejo eremita",
+          "tartaruga"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B0g3OECR9"
+      },
+      {
+        "id": "heating-002",
+        "title": "REPTITRIP Termostato com Regulagem de Intensidade para Répteis",
+        "description": "Temperatura Ajustável para Dia e Noite, Termostato para Lâmpada de Aquecimento Ou Placa de Aquecimento para Répteis",
+        "category": "heating",
+        "qtd": "Máximo 260W",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B04ivVc94"
+      },
+      {
+        "id": "heating-003",
+        "title": "Almofada de aquecimento para répteis",
+        "description": "Permite ajuste de temperatura 7W/14W/20W 110V",
+        "category": "heating",
+        "qtd": "7W/14W/20W",
+        "tags": [
+          "repteis",
+          "terrario",
+          "tartaruga",
+          "cobra",
+          "lagarto",
+          "lagartixa"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B0eG9eDLw"
+      },
+      {
+        "id": "heating-004",
+        "title": "Pedra de aquecimento para répteis",
+        "description": "Conta com proteção superaquecimento para uso seguro prolongado e um interruptor fio que permite ajustar o nível aquecimento conforme a necessida do ambiente.",
+        "category": "heating",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B02ewFzrT"
+      },
+      {
+        "id": "heating-005",
+        "title": "Protetor de Lâmpada de Aquecimento para Répteis",
+        "description": "Medindo 7 cm x 7 cm x 10,5 cm / 2,76 polegadas x 2,76 polegadas x 4,13 polegadas, esta proteção para lâmpada de calor para répteis se encaixa confortavelmente na maioria gaiolas.",
+        "category": "heating",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B0fLGNiHs"
+      },
+      {
+        "id": "heating-006",
+        "title": "Almencla Estrutura Rochosa Aquecimento para Répteis",
+        "description": "Funcionando em baixa tensão 12v com superfície impermeável fácil limpeza, esta base de aquecimento para répteis garante praticida na manutenção diária do habitat.",
+        "category": "heating",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "heating",
+        "link": "https://link.amazon/B0chw3ySd"
+      }
+    ],
+    "terrarium": [
+      {
+        "id": "terrarium-001",
+        "title": "Maxxi Terrario Vidro Com Tampa",
+        "description": "Dimensões(30 x 20 x 16cm). Terrário compacto com tampa, ideal para pequenos répteis e insetos.",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B00ThU0Go"
+      },
+      {
+        "id": "terrarium-002",
+        "title": "ALOTIKI Tanque de répteis de dragão barbudo",
+        "description": "Dimensões(242 l, 91 x 61 x 45 cm). Com design de ventilação de malha superior.",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario",
+          "dragão barbudo"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B06VJQ2IY"
+      },
+      {
+        "id": "terrarium-003",
+        "title": "REPTI ZOO Terrário de Vidro para Répteis 127 Litros",
+        "description": "Dimensões(91 cm x 45 cm x 45 cm). 2 em 1 de malha lateral e óculos laterais alternados facilmente: ótimo para diferentes necessidades",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B0dx9j07k"
+      },
+      {
+        "id": "terrarium-004",
+        "title": "Tanque alto de vidro para répteis",
+        "description": "Dimensões(20 x 20 x 45 cm). Pré-montado terrário vertical pequeno para répteis para lagartixas arbóreas, camaleão, lagarto, sapo e cobra com porta de abertura superior.",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B03zSou3W"
+      },
+      {
+        "id": "terrarium-005",
+        "title": "YBING Terrário de répteis de 20 galões ",
+        "description": "Dimensões(71 x 30 x 30 cm). Estrutura de metal, habitat de terrário para lagartixas.",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario",
+          "lagartixas"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B0et3QOdy"
+      }
+    ],
+    "feeding": [
+      {
+        "id": "feeding-001",
+        "title": "Tigela de comida para répteis",
+        "description": "Dimensões(9,4 cm, amarelo). Destinado a lagartos/animais de estimação",
+        "category": "feeding",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "lagartixas"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0cLZoSZ4"
+      },
+      {
+        "id": "feeding-002",
+        "title": "Tigela de comida para répteis",
+        "description": "Dimensões(25 cm, verde). Destinado a lagartos/animais de estimação",
+        "category": "feeding",
+        "qtd": "1",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B07dNnjUa"
+      },
+      {
+        "id": "feeding-003",
+        "title": "Ração para Répteis Carnívoros e Onívoros Tropical",
+        "description": "Fórmula rica em proteínas com peixe, camarão, krill, gammarus, larvas de tenébrio e grilos secos, promovendo nutrição completa para répteis.",
+        "category": "feeding",
+        "qtd": "260g",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0b08Wy0G"
+      },
+      {
+        "id": "feeding-004",
+        "title": "Pinça de Aço Inoxidável",
+        "description": "Aproveite os benefícios práticos do comprimento de 45 cm (17,7), evite mordidas acidentais.",
+        "category": "feeding",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "serpentes"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0bjN7tLO"
+      },
+      {
+        "id": "feeding-005",
+        "title": "Pacote com 2 pinças extralongas de aço inoxidável para alimentação de répteis",
+        "description": "pinças longas retas e curvadas de 27 cm para aquários, alimentador para dragões de barba, lagartos.",
+        "category": "feeding",
+        "qtd": "2",
+        "tags": [
+          "repteis",
+          "dragão barbudo"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0eiUrb1v"
+      },
+      {
+        "id": "feeding-006",
+        "title": "Kit de terrário multifuncional",
+        "description": "Kit de limpeza universal para terrários. Compatível com terrários de dragão-barbudo e osga.",
+        "category": "feeding",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "dragão barbudo"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B03rl1UlI"
+      },
+      {
+        "id": "feeding-007",
+        "title": "Protein Z Repteis - Larva de Mosca 30 g(PRODUÇÃO SOB ENCOMENDA)",
+        "description": "INSETO DESIDRATADO PARA REPTEIS",
+        "category": "feeding",
+        "qtd": "30g",
+        "tags": [
+          "repteis",
+          "lagartixas"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0ejYGOAH"
+      },
+      {
+        "id": "feeding-008",
+        "title": "Protein Z Repteis - Tenebrio Gigante 30 g(PRODUÇÃO SOB ENCOMENDA)",
+        "description": "INSETO DESIDRATADO PARA REPTEIS",
+        "category": "feeding",
+        "qtd": "30g",
+        "tags": [
+          "repteis",
+          "lagartixas"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0aZt7URx"
+      },
+      {
+        "id": "feeding-009",
+        "title": "Plataforma Do Terraço Dos Répteis",
+        "description": "Dimensões(41 x 30 x 4 cm). Piscina Lago Médio (3 Litros) para Répteis, Jabutis, Serpentes.",
+        "category": "feeding",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "jabutis",
+          "serpentes"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B03Z2qKC4"
+      },
+      {
+        "id": "feeding-010",
+        "title": "Cálcio de réptil (28 g, cálcio puro)",
+        "description": "Cálcio puro",
+        "category": "feeding",
+        "qtd": "28 g",
+        "tags": [
+          "repteis",
+          "lagartixas"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B0bxPTj03"
+      },
+      {
+        "id": "feeding-011",
+        "title": "Alcon Jabuti 300g Zip, Ração",
+        "description": "Alimento extrusado completo Super Premium, formulado para suprir as necessidades nutricionais de quelônios terrestres adultos na fase de manutenção.",
+        "category": "feeding",
+        "qtd": "300g",
+        "tags": [
+          "repteis",
+          "jabutis"
+        ],
+        "icon": "feeding",
+        "link": "https://link.amazon/B07TMyhrI"
+      }
+    ],
+    "accessories": [
+      {
+        "id": "accessories-001",
+        "title": "Gancho Manejo Serpentes",
+        "description": "Seguro Dobrável 100cm Cobra herpetológico herpetologia",
+        "category": "accessories",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "serpentes"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B0aFAzbvM"
+      },
+      {
+        "id": "accessories-002",
+        "title": "Ganchos de cobra, gancho de cobra de aço inoxidável extensível",
+        "description": "Forte e durável: este gancho de cobra inoxidável resistente é feito de material de aço inoxidável de alta resistência, forte e durável, e pode suportar até 3,6 kg.",
+        "category": "accessories",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "serpentes"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B04MsoTTT"
+      },
+      {
+        "id": "accessories-003",
+        "title": "2 Peças De Termômetro De Répteis",
+        "description": "Atenda à necessidade de medição de umidade e temperatura para monitorar as condições de vida e saúde dos répteis.",
+        "category": "accessories",
+        "qtd": "2",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B022572zh"
+      },
+      {
+        "id": "accessories-004",
+        "title": "Decoração em Terrário para Cobras Enriquecimento de Escalada de Répteis",
+        "description": "Zona de escalada para répteis: Projetado como decoração para terrário, este item fixa-se rapidamente por ventosas em tanques de vidro e acrílico em um minuto.",
+        "category": "accessories",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "serpentes"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B0hLQ2NVg"
+      },
+      {
+        "id": "accessories-005",
+        "title": "PINVNBY Madeira derivada natural para aquário grande réptil",
+        "description": "Decoração de terrário répteis variados ramos acessórios para tanque de dragão querido pacote com 2.",
+        "category": "accessories",
+        "qtd": "2",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B02nmZOcp"
+      },
+      {
+        "id": "accessories-006",
+        "title": "Toca para Répteis",
+        "description": "A decoração do é de resina de alta qualidade, e segura. Não prejudicará sua nem afetará a qualidade da água do seu Pet.",
+        "category": "accessories",
+        "qtd": "1",
+        "tags": [
+          "repteis"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B0euiMrvn"
+      },
+      {
+        "id": "accessories-007",
+        "title": "Natural Lookings Répteis Habitat Local para Dragão Barbudo",
+        "description": "Esconderijos Seguros Brincar Banhos de Sol Terrários Acessório de Paisagem Terrários Acessório.",
+        "category": "accessories",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "dragão barbudo"
+        ],
+        "icon": "accessories",
+        "link": "https://link.amazon/B0037l4Zs"
+      }
+    ],
+    "clothes": [
+      {
+        "id": "clothes-001",
+        "title": "Carter's Boys' 2T-8 Short Sleeve Reptile Tee 3T",
+        "description": "Confira o visual e decida por você mesmo.",
+        "category": "clothes",
+        "qtd": "1",
+        "tags": [
+          "man"
+        ],
+        "icon": "clothes",
+        "link": "https://link.amazon/B0aFAzbvM"
+      },
+      {
+        "id": "clothes-002",
+        "title": "Camiseta feminina de dinossauro fofa",
+        "description": "Característica: camiseta feminina de dinossauro, linda camiseta gráfica de dinossauro para professores, camiseta divertida para amantes de animais.",
+        "category": "clothes",
+        "qtd": "1",
+        "tags": [
+          "woman"
+        ],
+        "icon": "clothes",
+        "link": "https://link.amazon/B0cNiPRul"
       }
     ]
   }
