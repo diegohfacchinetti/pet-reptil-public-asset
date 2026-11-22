@@ -378,6 +378,19 @@
     ],
     "terrarium": [
       {
+        "id": "terrarium-000",
+        "title": "Sanremo - Caixa Organizadora Plástica de 42 Litros e Tampa com Travas",
+        "description": "Com uma adaptação pode ser uma excelente opção de terrario para filhotes. Da um pulo no <b>.Youtube</b> e confere esse tutorial: https://www.youtube.com/watch?v=-cfL8dfclwA  depois volta aqui para aproveitar essa oferta!",
+        "category": "terrarium",
+        "qtd": "1",
+        "tags": [
+          "repteis",
+          "terrario"
+        ],
+        "icon": "terrarium",
+        "link": "https://link.amazon/B00ThU0Go"
+      },
+      {
         "id": "terrarium-001",
         "title": "Maxxi Terrario Vidro Com Tampa",
         "description": "Dimensões(30 x 20 x 16cm). Terrário compacto com tampa, ideal para pequenos répteis e insetos.",
